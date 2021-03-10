@@ -23,4 +23,4 @@ This is a Personal Project that i have created a basic calculator using html ,cs
 Incase of any contributions, feel free to do so by visiting[this link]().
 ### License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-Copyright (c) 202i **mids**
+Copyright (c) 2021 
